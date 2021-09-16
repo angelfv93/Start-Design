@@ -1,0 +1,15 @@
+h1, h2 {
+  font-family: Lato;
+}
+body {
+  margin: 0px;
+}
+
+.banner {
+  padding: 2px;
+  width: 100%;
+  text-align: center;
+  background-color: #F5F5F5;
+  font-size: 14px;
+  color: #808080;
+}
